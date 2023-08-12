@@ -7,4 +7,5 @@ filling the values.There might be error in syntax as it depends on the version o
 After creating table you can try to fetch the rows by using while loop or for loop depends on you.
 And the last thing you have to do is close cursor and connection by using this syntax cur.close()  , conn.close()
 
+(will correct  the error later)
 
