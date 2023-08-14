@@ -7,7 +7,7 @@ This project demonstrates how to create a database and perform basic operations 
 
 - Python 3.x
 - `mysql.connector` library
-- MySQL server
+- MySQL server 
 
 ## Usage
 
